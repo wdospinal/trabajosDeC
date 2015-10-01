@@ -1,0 +1,12 @@
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe.config
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.exe
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.pdb
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\bin\Debug\Bibloteca.pdb
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form1.resources
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form2.resources
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form3.resources
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form4.resources
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Properties.Resources.resources
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\LawFirm.csproj.GenerateResource.Cache
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\LawFirm.csprojResolveAssemblyReference.cache

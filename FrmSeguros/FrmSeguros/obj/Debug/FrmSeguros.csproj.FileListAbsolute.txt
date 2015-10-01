@@ -1,0 +1,9 @@
+C:\Users\INTEL\Desktop\Entrega\FrmSeguros\FrmSeguros\bin\Debug\FrmSeguros.exe.config
+C:\Users\INTEL\Desktop\Entrega\FrmSeguros\FrmSeguros\obj\Debug\FrmSeguros.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Desktop\Entrega\FrmSeguros\FrmSeguros\obj\Debug\FrmSeguros.Form1.resources
+C:\Users\INTEL\Desktop\Entrega\FrmSeguros\FrmSeguros\obj\Debug\FrmSeguros.Properties.Resources.resources
+C:\Users\INTEL\Desktop\Entrega\FrmSeguros\FrmSeguros\obj\Debug\FrmSeguros.csproj.GenerateResource.Cache
+C:\Users\INTEL\Desktop\Entrega\FrmSeguros\FrmSeguros\bin\Debug\FrmSeguros.exe
+C:\Users\INTEL\Desktop\Entrega\FrmSeguros\FrmSeguros\bin\Debug\FrmSeguros.pdb
+C:\Users\INTEL\Desktop\Entrega\FrmSeguros\FrmSeguros\obj\Debug\FrmSeguros.exe
+C:\Users\INTEL\Desktop\Entrega\FrmSeguros\FrmSeguros\obj\Debug\FrmSeguros.pdb

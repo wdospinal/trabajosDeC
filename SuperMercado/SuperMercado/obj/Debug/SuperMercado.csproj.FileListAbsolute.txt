@@ -1,0 +1,9 @@
+c:\users\salak406\documents\visual studio 2013\Projects\SuperMercado\SuperMercado\bin\Debug\SuperMercado.exe.config
+c:\users\salak406\documents\visual studio 2013\Projects\SuperMercado\SuperMercado\bin\Debug\SuperMercado.exe
+c:\users\salak406\documents\visual studio 2013\Projects\SuperMercado\SuperMercado\bin\Debug\SuperMercado.pdb
+c:\users\salak406\documents\visual studio 2013\Projects\SuperMercado\SuperMercado\obj\Debug\SuperMercado.csprojResolveAssemblyReference.cache
+c:\users\salak406\documents\visual studio 2013\Projects\SuperMercado\SuperMercado\obj\Debug\SuperMercado.Form1.resources
+c:\users\salak406\documents\visual studio 2013\Projects\SuperMercado\SuperMercado\obj\Debug\SuperMercado.Properties.Resources.resources
+c:\users\salak406\documents\visual studio 2013\Projects\SuperMercado\SuperMercado\obj\Debug\SuperMercado.csproj.GenerateResource.Cache
+c:\users\salak406\documents\visual studio 2013\Projects\SuperMercado\SuperMercado\obj\Debug\SuperMercado.exe
+c:\users\salak406\documents\visual studio 2013\Projects\SuperMercado\SuperMercado\obj\Debug\SuperMercado.pdb

@@ -1,0 +1,24 @@
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe.config
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\bin\Debug\Bibloteca.pdb
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csprojResolveAssemblyReference.cache
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form1.resources
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form2.resources
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Properties.Resources.resources
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.GenerateResource.Cache
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.exe
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.pdb
+c:\users\salak406\documents\visual studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form3.resources
+F:\C#\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe.config
+F:\C#\Bibloteca\Bibloteca\obj\Debug\Bibloteca.exe
+F:\C#\Bibloteca\Bibloteca\obj\Debug\Bibloteca.pdb
+F:\C#\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe
+F:\C#\Bibloteca\Bibloteca\bin\Debug\Bibloteca.pdb
+F:\C#\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csprojResolveAssemblyReference.cache
+F:\C#\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form1.resources
+F:\C#\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form2.resources
+F:\C#\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form3.resources
+F:\C#\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form4.resources
+F:\C#\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Properties.Resources.resources
+F:\C#\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.GenerateResource.Cache
+C:\Users\salak406\Documents\Visual Studio 2013\Projects\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Form4.resources
